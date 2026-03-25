@@ -22,7 +22,7 @@ This project aims to identify **which factors drive sales** and how **discount s
 ***1. Data Quality Assessment & EDA***
 - Assessed missing values, data consistency and outliers
 - Analyzed distributions and skewness
-- Visualized trends and patterns across products, sales and customer profiles to establish the initial understanding of business dynamics
+- Built an interactive Power BI dashboard to visualize trends and patterns in products, sales, and customer segments, enabling a clear understanding of business performance.
 
 ***2. Machine Learning***
 
@@ -51,9 +51,9 @@ This project aims to identify **which factors drive sales** and how **discount s
  - Promote **a 15-20% discount strategy** for Phones
  - Adopt **a controlled experimental approach** for Chairs and Binders before a large-scale discount deployment
 
-
-## TOOLS
-- Python (Pandas, Scikit-learn, Optuna, Plotly,...)
+## TOOLS & TECHNOLOGIES
+- Python (Pandas, NumPy, Scikit-learn, Optuna)
+- Data Visualization: Plotly, Power BI
 - Jupyter Notebook
 
 ## DATA
